@@ -1,5 +1,23 @@
 # Flappy Bird Game
 
+# 🐦 Flappy Bird - TypeScript + Kiro
+
+## 🚀 Features
+- Strict TypeScript
+- State management
+- Gravity physics
+- Unit testing
+- Property-based testing
+
+## 🛠 Tech Stack
+- TypeScript
+- Next.js
+- Jest
+
+## ▶️ Run Locally
+npm install
+npm run dev
+
 A browser-based Flappy Bird game built with Next.js and TypeScript.
 
 ## Getting Started
@@ -37,3 +55,4 @@ npm run test:watch
 - `app/` - Next.js App Router pages and layouts
 - `lib/` - Game logic modules (physics, collision, rendering, etc.)
 - `components/` - React components (Game component)
+
